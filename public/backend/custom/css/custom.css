@@ -1,0 +1,7 @@
+/*Ortak Css Dosyası custom.css*/
+.sortable{
+    cursor: -webkit-grab; cursor:grab;
+}
+.table > tbody > tr > td{
+    vertical-align: middle;
+}

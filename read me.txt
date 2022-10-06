@@ -1,0 +1,6 @@
+http://127.0.0.1:8000/nedmin/login 	admin url
+
+user:burak_ozcan_95@hotmail.com
+pass: 12345678
+
+http://127.0.0.1:8000/enguncelhaber 	news website url
